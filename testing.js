@@ -17,5 +17,3 @@ function solution(n) {
 console.time('FooTimer');
 solution(data);
 console.timeEnd('FooTimer');
-
-console.log("working.. ");
